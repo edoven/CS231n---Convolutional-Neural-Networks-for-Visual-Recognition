@@ -1,2 +1,4 @@
 assignment1/cs231n/datasets/cifar-10-batches-py/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 NOTES.txt
